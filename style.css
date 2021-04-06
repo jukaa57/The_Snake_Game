@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: darkcyan;
+    font-family: fantasy;
+}
+body{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+h1{
+    margin-bottom: 15px;
+}
+footer{
+    padding-top: 10px;
+    margin-top: 10px;
+}
